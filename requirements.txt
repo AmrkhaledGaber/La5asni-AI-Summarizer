@@ -1,0 +1,12 @@
+groq
+google-generativeai
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langdetect
+pymupdf
+python-docx
+fastapi
+uvicorn
+streamlit
