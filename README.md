@@ -1,7 +1,8 @@
 # La5asni - AI-Powered Training Content Transformer
 
 **La5asni** is an AI-driven assistant designed to automate the transformation of static training documents (PDF/DOCX) into structured, digestible learning content. By leveraging advanced large language models (LLMs) via LangChain, it generates summaries, learning objectives, modules with estimated durations, and even training plans in both Arabic and English. La5asni enhances the quality of training material, saves time, and prepares content for future integration with Learning Management Systems (LMS).
-![Uploading image.png…]()
+
+![La5asni Screenshot](https://github.com/AmrkhaledGaber/La5asni-AI-Summarizer/blob/master/la5asni.png)
 
 ## Table of Contents
 
